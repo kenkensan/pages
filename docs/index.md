@@ -8,4 +8,10 @@
 - [蟹](./favorit/kani.md) ![蟹](./kani.jpg)
 ---
 - [イクラ](./favorit/ikura.md) ![イクラ](./ikura.jpg)
+=======
+- [エビ](./favorit/ebi.md) ![エビ](../ebi.jpg)
+---
+- [蟹](./favorit/kani.md) ![蟹](../kani.jpg)
+---
+- [イクラ](./favorit/ikura.md) ![イクラ](../ikura.jpg)
 ---
